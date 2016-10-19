@@ -20,12 +20,22 @@
     <favorites_list name="exacttarget-master" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../exacttarget/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/CMCi/ExactTarget/EtTriggeredSendDefinition.php" />
         <option value="$PROJECT_DIR$/src/CMCi/ExactTarget/EtTriggeredSendExclusionList.php" />
         <option value="$PROJECT_DIR$/src/CMCi/ExactTarget/EtTriggeredSendStatusEnum.php" />
         <option value="$PROJECT_DIR$/src/CMCi/ExactTarget/EtTriggeredSendSummary.php" />
@@ -76,6 +86,7 @@
         <option value="$PROJECT_DIR$/../exacttarget/docs/Usage.md" />
         <option value="$PROJECT_DIR$/../exacttarget/README.md" />
         <option value="$PROJECT_DIR$/../exacttarget/composer.json" />
+        <option value="$PROJECT_DIR$/../exacttarget/.gitignore" />
       </list>
     </option>
   </component>
@@ -201,16 +212,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1476880719107</updated>
-      <workItem from="1476880720426" duration="7299000" />
+      <workItem from="1476880720426" duration="7908000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7299000" />
+    <option name="totallyTimeSpent" value="7908000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="0" width="1920" height="1080" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0020833334" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.203125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -641,14 +652,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../exacttarget/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../exacttarget/composer.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -681,6 +684,14 @@
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../exacttarget/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
